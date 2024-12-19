@@ -1,2 +1,2 @@
 number = int(input('sonni kiriting >>>'))
-print("Natija -> ", oct(number)[2:])
+print("Natija -> ", hex(number)[2:])
